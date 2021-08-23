@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manvi Singhal.</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shruti3004" alt="Shruti3004" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manvii3110" alt="manvii3110" /> </p>
 <h1 align="center">🧐 About</h1>
 - 🧑 I'm a competitive programmer and a developer.
 - 🔭 I’m currently working on React projects.
