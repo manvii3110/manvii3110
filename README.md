@@ -1,12 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manvi Singhal.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manvii3110" alt="manvii3110" /> </p>
 <h1 align="center">🧐 About</h1>
-- 🧑 I'm a competitive programmer and a developer.
-- 🔭 I’m currently working on React projects.
-- 🌱 I’m currently learning Django Rest Framewok.
-- 👯 I’m looking to build some Real Life projects in collaboration.
-- 💬 Ask me about React Js and Django.
-- 😄 All of my projects are available at https://github.com/manvii3110
+<ul>
+  <li>🧑 I'm a competitive programmer and a developer.</li>
+<li>🔭 I’m currently working on React projects.</li>
+<li>🌱 I’m currently learning Django Rest Framewok.</li>
+<li>👯 I’m looking to build some Real Life projects in collaboration.</li>
+<li>💬 Ask me about React Js and Django.</li>
+<li>😄 All of my projects are available at https://github.com/manvii3110</li>
+  </ul>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvii3110&layout=compact&hide=php,c,html,roff&langs_count=10" alt="manvii3110" />
