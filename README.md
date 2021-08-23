@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manvii3110" alt="manvii3110" /> </p>
 <h1 align="center">🧐 About</h1>
 <ul>
-  <li>🧑 I'm a competitive programmer and a developer.</li>
+  <li>🧑 I'm a competitive programmer and a web developer.</li>
 <li>🔭 I’m currently working on React projects.</li>
 <li>🌱 I’m currently learning Django Rest Framewok.</li>
 <li>👯 I’m looking to build some Real Life projects in collaboration.</li>
