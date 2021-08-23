@@ -1,13 +1,11 @@
-<h1 align="center"> Hi there 👋, I'm Manvi Singhal.</h1>
-
-
-## 🧐 About
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Manvi Singhal.</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shruti3004" alt="Shruti3004" /> </p>
+<h1 align="center">🧐 About</h1>
 - 🧑 I'm a competitive programmer and a developer.
 - 🔭 I’m currently working on React projects.
 - 🌱 I’m currently learning Django Rest Framewok.
 - 👯 I’m looking to build some Real Life projects in collaboration.
 - 💬 Ask me about React Js and Django.
-- 📫 How to reach me: msinghal3102@gmail.com
 - 😄 All of my projects are available at https://github.com/manvii3110
 
 <p align="center">
