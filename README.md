@@ -15,3 +15,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manvii3110&show_icons=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvii3110&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
  </details>
+<summary><b>☄️ Github Streaks</b></summary>
+<details open>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manvii3110&layout=compact" />
+</details>>
